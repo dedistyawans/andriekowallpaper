@@ -8,6 +8,18 @@
 
     "ad_network": [
       {
+        "name": "admob",
+        "value": 0,
+
+        "appId_appKey_publisherId_gameId": "ca-app-pub-7701717145574972~7593000041",
+        "banner": "ca-app-pub-7701717145574972/9679273188",
+        "mrec": "ca-app-pub-7701717145574972/9679273188",
+        "inter": "ca-app-pub-7701717145574972/3075170538",
+        "native_ad": "ca-app-pub-7701717145574972/9313275824",
+        "open_ad": "ca-app-pub-7701717145574972/2556295782",
+        "splash_ad": true
+      },
+      {
         "name": "startapp",
         "value": 0,
 
