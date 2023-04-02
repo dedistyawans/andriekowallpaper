@@ -10,9 +10,21 @@
     },
 
     "ad_network": [
+       {
+        "name": "max",
+        "value": 2,
+
+        "appId_appKey_publisherId_gameId": "-",
+        "banner": "90ddbc5406326040",
+        "mrec": "cb5ea93e96d2759f",
+        "inter": "8f1de43788c71ec0",
+        "native_ad": "f14aeed3270754df",
+        "open_ad": "8a8cc88dbff47c95",
+        "splash_ad": true
+      },
       {
         "name": "startapp",
-        "value": 0,
+        "value": 1,
 
         "appId_appKey_publisherId_gameId": "202832589",
         "banner": "-",
