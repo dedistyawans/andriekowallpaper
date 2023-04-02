@@ -10,6 +10,18 @@
     },
 
     "ad_network": [
+      {
+        "name": "admob_andri",
+        "value": 3,
+
+        "appId_appKey_publisherId_gameId": "ca-app-pub-7701717145574972~1562514980",
+        "banner": "ca-app-pub-7701717145574972/1350476589",
+        "mrec": "ca-app-pub-7701717145574972/1350476589",
+        "inter": "ca-app-pub-7701717145574972/5517501046",
+        "native_ad": "ca-app-pub-7701717145574972/5681152577",
+        "open_ad": "ca-app-pub-7701717145574972/7541029155",
+        "splash_ad": true
+      },
        {
         "name": "max",
         "value": 2,
