@@ -10,7 +10,7 @@
 
     "ad_network": [
        {
-        "name": "xadmob_andri",
+        "name": "admob_andri",
         "value": 3,
 
         "appId_appKey_publisherId_gameId": "ca-app-pub-7701717145574972~1562514980",
@@ -22,7 +22,7 @@
         "splash_ad": true
       },
        {
-        "name": "xadmob_windu",
+        "name": "admob_windu",
         "value": 4,
 
         "appId_appKey_publisherId_gameId": "ca-app-pub-1598318147841886~7608303721",
@@ -34,7 +34,7 @@
         "splash_ad": true
       },
         {
-        "name": "xfan_dedi",
+        "name": "fan_dedi",
         "value": 2,
 
         "appId_appKey_publisherId_gameId": "909675510238353",
