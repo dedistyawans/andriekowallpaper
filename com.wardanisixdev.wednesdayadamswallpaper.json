@@ -9,7 +9,7 @@
     "ad_network": [
       {
         "name": "admob_andri",
-        "value": 3,
+        "value": 4,
 
         "appId_appKey_publisherId_gameId": "ca-app-pub-7701717145574972~6978207784",
         "banner": "ca-app-pub-7701717145574972/4810089883",
@@ -21,7 +21,7 @@
       },
        {
         "name": "admob_windu",
-        "value": 2,
+        "value": 3,
 
         "appId_appKey_publisherId_gameId": "ca-app-pub-1598318147841886~4790568694",
         "banner": "ca-app-pub-1598318147841886/3561247500",
@@ -29,6 +29,21 @@
         "inter": "ca-app-pub-1598318147841886/2248165837",
         "native_ad": "ca-app-pub-1598318147841886/5541663140",
         "open_ad": "ca-app-pub-1598318147841886/1602418137",
+        "splash_ad": true
+      },
+       {
+        "name": "max_dedi",
+        "value": 2,
+         "min_time":120,
+         "open_ad_mode" : "interstitial",
+         "splash_ad_mode": "interstitial",
+
+        "appId_appKey_publisherId_gameId": "uMbA4cb7v9Slna1cimwIn_grKDiNma8HhBIHTIQrQ4uGeoKTkBM7CSJ6ICcrgVsH8v8smTTAWuVBMd02tk8GIv",
+        "banner": "0053e5c3c2b26427",
+        "mrec": "-",
+        "inter": "8a5c7f0acf62a674",
+        "native_ad": "-",
+        "open_ad": "-",
         "splash_ad": true
       },
       {
