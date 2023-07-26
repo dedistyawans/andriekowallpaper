@@ -25,6 +25,7 @@
        {
         "name": "admob_andri",
         "value": 10,
+         "min_time":120,
 
         "appId_appKey_publisherId_gameId": "ca-app-pub-7701717145574972~1562514980",
         "banner": "ca-app-pub-7701717145574972/1350476589",
@@ -37,6 +38,7 @@
        {
         "name": "admob_windu",
         "value": 100,
+          "min_time":120,
 
         "appId_appKey_publisherId_gameId": "ca-app-pub-1598318147841886~7608303721",
         "banner": "ca-app-pub-1598318147841886/1920862771",
@@ -76,6 +78,7 @@
       {
         "name": "xstartapp",
         "value": 1,
+        
 
         "appId_appKey_publisherId_gameId": "202832589",
         "banner": "-",
