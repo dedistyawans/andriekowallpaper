@@ -5,13 +5,26 @@
       "interval_interstitial": 3,
       "show_credit_info": true,
       "switch_ads_type":"banner_native_linear",
-      "interstitial_type": "las"
+      "interstitial_type": "las",
+       "ad_network_order": "percent_order"
     },
 
     "ad_network": [
        {
+        "name": "admob_heru",
+        "value": 100,
+
+        "appId_appKey_publisherId_gameId": "ca-app-pub-3261537079314282~4657681992",
+        "banner": "ca-app-pub-3261537079314282/4125267324",
+        "mrec": "ca-app-pub-3261537079314282/4125267324",
+        "inter": "ca-app-pub-3261537079314282/4002295623",
+        "native_ad": "off",
+        "open_ad": "ca-app-pub-3261537079314282/5550029630",
+        "splash_ad": true
+      },
+       {
         "name": "admob_andri",
-        "value": 3,
+        "value": 10,
 
         "appId_appKey_publisherId_gameId": "ca-app-pub-7701717145574972~1562514980",
         "banner": "ca-app-pub-7701717145574972/1350476589",
@@ -23,7 +36,7 @@
       },
        {
         "name": "admob_windu",
-        "value": 4,
+        "value": 100,
 
         "appId_appKey_publisherId_gameId": "ca-app-pub-1598318147841886~7608303721",
         "banner": "ca-app-pub-1598318147841886/1920862771",
